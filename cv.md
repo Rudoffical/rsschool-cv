@@ -1,5 +1,8 @@
 #Mikhail Rudoy
 *****
+###Belarus, Minsk 
+
+######E-mail: rudoy.misha@bk.ru
 ######+375333728095 - contact's number
 
 ##My gools - learning JS
@@ -21,3 +24,5 @@
 ##English level: B1-B2
 ######*I traveled to English-speaking countries. He also took part in international programs in English*
 ****
+
+
